@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("computer");
+printf("bug1: computer");
 return 0;
 }
